@@ -1,1 +1,1 @@
-# end-to-end-azure-data-engineering-with-devops
+# End-to-End Azure Data Engineering with DevOps
